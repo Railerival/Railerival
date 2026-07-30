@@ -18,6 +18,6 @@ https://railerival.github.io/website/about/
 ---
 
 I've also made a few projects small and big, some of which i will link below:
-- [Blackjack](https://github.com/Railerival/Smol_projects/tree/main/blackjack)
-- [Downloads organizer](https://github.com/Railerival/Downloads_organizer) 
-- [Panacea](https://github.com/Railerival/2D-game)
+- [Blackjack](https://github.com/Railerival/Smol_projects/tree/main/blackjack), A casino type terminal card game
+- [Downloads organizer](https://github.com/Railerival/Downloads_organizer), A personal project to organize my downloads ;)
+- [Panacea](https://github.com/Railerival/2D-game), A 2D game using pygame
